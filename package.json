@@ -1,0 +1,37 @@
+{
+  "name": "npm-add",
+  "homepage": "http://github.com/jawerty/npm-add",
+  "author": "Jared Wright (http://wrightdev.herokuapp.com/jawerty)",
+  "bin": {
+    "npm-add": "./add.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jawerty/npm-add.git"
+  },
+  "description": "CLI tool to quickly add npm packages to package.json. To speed up productivity.",
+  "keywords": [
+    "npm-add",
+    "npm",
+    "add",
+    "dependencies",
+    "dependency",
+    "node.js"
+  ],
+  "version": "0.0.1",
+  "preferGlobal": "true",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./add",
+  "directories": {
+    "test": "test"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "npm": "1.2.18",
+  }
+}
