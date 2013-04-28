@@ -10,7 +10,7 @@ $ npm install npm-add -g
 ```
 
 # Usage
-Add the latest verison of an npm package
+### Add the latest verison of an npm package
 ```
 $ npm-add jade
 ```
@@ -19,12 +19,12 @@ Then install
 $ npm install
 ```
 
-Add multiple packages
+### Add multiple packages
 ```
 $ npm-add jade socket.io
 ```
 
-Specify version
+### Specify version
 
 ```
 $ npm-add 'jade 0.30.0'
@@ -34,12 +34,13 @@ $ npm-add 'jade 0.30.0'
 $ npm-add 'jade 0.30.0' 'socket.io 0.9.14'
 ```
 
-Both
+### Adding it all together
 ```
 $ npm-add express 'socket.io 0.9.14'
 ```
 
-Add and install
+
+### Add and install
 ```
 $ npm-add express stylus async --install
 ```
