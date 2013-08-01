@@ -58,7 +58,7 @@ Github: [jawerty](https://github.com/jawerty)
 
 Twitter: [@jawerty](http://twitter.com/jawerty)
 
-Blog: <http://wrightdev.herokuapp.com>
+Blog: <http://jawerty.github.io>
 
 # License
 See the file LICENSE to view the MIT License
